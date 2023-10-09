@@ -4,7 +4,7 @@
 ![1](https://github.com/Budro12/orthosplint/assets/59764894/a5fcfcb6-cfc4-489c-a668-b1eb6fcd0b7d)
 
 
-Welcome to the "3D Printed Orthosis Splint - Final Year College Project" on GitHub! This project represents the culmination of our academic journey, where we combine the power of 3D printing technology with our passion for bioengineering to create innovative orthosis splints. Our goal is to make orthopedic care more accessible, efficient, and patient-centric.
+Welcome to the "3D Printed Orthosis Splint - Final Year College Project" on GitHub! This project represents the culmination of our academic journey, where we combine the power of 3D printing technology with our passion for mechanical engineering to create innovative orthosis splints. Our goal is to make orthopedic care more accessible, efficient, and patient-centric.
 
 # Key Objectives:
   
